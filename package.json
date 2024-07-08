@@ -1,6 +1,11 @@
 {
-  "dependencies": {
-    "pcf-project": "^1.0.1",
-    "shared": "^0.2.0"
+  "name": "root",
+  "private": true,
+  "workspaces": [
+    "packages/*"
+  ],
+  "dependencies": {},
+  "devDependencies": {
+    "lerna": "^8.1.3"
   }
 }
