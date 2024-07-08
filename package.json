@@ -1,0 +1,6 @@
+{
+  "dependencies": {
+    "pcf-project": "^1.0.1",
+    "shared": "^0.2.0"
+  }
+}
